@@ -1,2 +1,2 @@
 # CiaGenerate
-DSiWare, homebrew and retail CIA generator
+- Homebrew, DSiWare and retail CIA builder
