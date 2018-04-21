@@ -1,5 +1,5 @@
 
-// CiaGenerate Haxe source file: tested under 32bit and 64bit Windows. Needs testing on Linux (I have to build its binaries first)
+// CiaGenerate Haxe source file: tested under 64bit Windows. Needs testing on Linux (I have to build its binaries first)
 // Version: 0.4
 // Version info: Some bugs fixed, DSiWare build remade
 // Now using 'Program' class, under 'xorTroll' package, to make simple operations
